@@ -1,5 +1,5 @@
 export default {
-	title: "froginabogonalog",
-	url: "https://froginabogonalog.gay/",
+	title: "Example",
+	url: "https://example.com/",
 	language: "en",
 };
